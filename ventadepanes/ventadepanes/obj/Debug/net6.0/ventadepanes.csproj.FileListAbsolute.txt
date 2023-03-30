@@ -1,0 +1,15 @@
+C:\Users\medga\source\repos\ventadepanes\ventadepanes\obj\Debug\net6.0\ventadepanes.csproj.AssemblyReference.cache
+C:\Users\medga\source\repos\ventadepanes\ventadepanes\obj\Debug\net6.0\ventadepanes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\medga\source\repos\ventadepanes\ventadepanes\obj\Debug\net6.0\ventadepanes.AssemblyInfoInputs.cache
+C:\Users\medga\source\repos\ventadepanes\ventadepanes\obj\Debug\net6.0\ventadepanes.AssemblyInfo.cs
+C:\Users\medga\source\repos\ventadepanes\ventadepanes\obj\Debug\net6.0\ventadepanes.csproj.CoreCompileInputs.cache
+C:\Users\medga\source\repos\ventadepanes\ventadepanes\bin\Debug\net6.0\ventadepanes.exe
+C:\Users\medga\source\repos\ventadepanes\ventadepanes\bin\Debug\net6.0\ventadepanes.deps.json
+C:\Users\medga\source\repos\ventadepanes\ventadepanes\bin\Debug\net6.0\ventadepanes.runtimeconfig.json
+C:\Users\medga\source\repos\ventadepanes\ventadepanes\bin\Debug\net6.0\ventadepanes.dll
+C:\Users\medga\source\repos\ventadepanes\ventadepanes\bin\Debug\net6.0\ventadepanes.pdb
+C:\Users\medga\source\repos\ventadepanes\ventadepanes\obj\Debug\net6.0\ventadepanes.dll
+C:\Users\medga\source\repos\ventadepanes\ventadepanes\obj\Debug\net6.0\refint\ventadepanes.dll
+C:\Users\medga\source\repos\ventadepanes\ventadepanes\obj\Debug\net6.0\ventadepanes.pdb
+C:\Users\medga\source\repos\ventadepanes\ventadepanes\obj\Debug\net6.0\ventadepanes.genruntimeconfig.cache
+C:\Users\medga\source\repos\ventadepanes\ventadepanes\obj\Debug\net6.0\ref\ventadepanes.dll
